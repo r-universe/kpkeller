@@ -8,3 +8,6 @@
 [submodule "predkmeans"]
 	path = predkmeans
 	url = https://github.com/kpkeller/predkmeans
+[submodule "spconf"]
+	path = spconf
+	url = https://github.com/cran/spconf
