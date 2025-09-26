@@ -7,4 +7,4 @@
 	url = https://github.com/kpkeller/eshrink
 [submodule "spconf"]
 	path = spconf
-	url = https://github.com/cran/spconf
+	url = https://github.com/kpkeller/spconf
